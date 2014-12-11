@@ -1,0 +1,8 @@
+---
+title: "Probability and Statistics"
+author: "Bill Cruise"
+date: "Thursday, December 11, 2014"
+output: html_document
+---
+
+####Introduction
