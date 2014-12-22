@@ -5,4 +5,13 @@ date: "Thursday, December 11, 2014"
 output: html_document
 ---
 
-####Introduction
+####Introduction to Statistics and Data Analysis
+
+1. Find the sample mean and median of the following list of hours:
+
+   123, 116, 122, 110, 175, 126, 125, 111, 118, 117
+   
+```{r}
+hours <- c(123, 116, 122, 110, 175, 126, 125, 111, 118, 117)
+mean(hours)
+median(hours)
