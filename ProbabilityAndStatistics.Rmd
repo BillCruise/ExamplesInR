@@ -15,3 +15,13 @@ output: html_document
 hours <- c(123, 116, 122, 110, 175, 126, 125, 111, 118, 117)
 mean(hours)
 median(hours)
+```
+
+3. Find the sample mean for each of the following groups:
+
+    69.3, 56.0, 22.1, 47.6, 53.2, 48.1, 52.7, 34.4, 60.2, 43.8, 23.2, 13.8
+    
+```{r}
+smokers <- c(69.3, 56.0, 22.1, 47.6, 53.2, 48.1, 52.7, 34.4, 60.2, 43.8, 23.2, 13.8)
+mean(smokers)
+```
